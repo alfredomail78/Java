@@ -32,4 +32,8 @@
         }
     }
     
- 
+ **************************
+ Ejercicio en java AdivinarOperaciones con while y break
+
+ ![image](https://github.com/alfredomail78/Java/assets/134629710/6bc07f40-bef6-4dc9-ae85-0c898a277847)
+
