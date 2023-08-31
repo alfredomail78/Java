@@ -37,3 +37,7 @@
 
  ![image](https://github.com/alfredomail78/Java/assets/134629710/6bc07f40-bef6-4dc9-ae85-0c898a277847)
 
+ **********EJERCICIO CON WHILE O FOR PARA REPETIR LA OPERACION EN CASO DE RESULTADO INCORRECTO**********
+
+![image](https://github.com/alfredomail78/Java/assets/134629710/412f77cc-8f3e-47a8-93ca-53f5a7bba111)
+
